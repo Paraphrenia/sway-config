@@ -1,5 +1,5 @@
-# sway-config
-Fedora Sway Spin
+# sway-config dotfiles
+Fedora Sway Spin dotfiles
 
 ![Desktop](./Screenshot.png)
 ![Rofi](./Rofi.png)
