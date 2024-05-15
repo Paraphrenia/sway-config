@@ -1,8 +1,8 @@
 # sway-config
 Fedora Sway Spin
 
-![Rofi](./Rofi.png)
 ![Desktop](./Screenshot.png)
+![Rofi](./Rofi.png)
 
 ## Wallpaper
 [Wallpaper link](https://wall.alphacoders.com/big.php?i=259294)
